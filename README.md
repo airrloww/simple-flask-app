@@ -1,1 +1,1 @@
-# simple-flask-app
+a minimal flask app running on port 5000 with a Dockerfile for containerization and deployment
