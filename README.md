@@ -1,1 +1,2 @@
-a minimal flask app running on port 5000 with a Dockerfile for containerization and deployment
+a minimal flask app running on port 5000, 
+[dockerhub](https://hub.docker.com/r/airrloww/simple-flask-app/tags)
